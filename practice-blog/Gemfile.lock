@@ -223,7 +223,7 @@ PLATFORMS
   x86_64-darwin-17
 
 DEPENDENCIES
-  better_errors (~> 2.4)
+  better_errors (~> 2.6)
   bootsnap (>= 1.1.0)
   bulma-rails (~> 0.6.1)
   byebug
